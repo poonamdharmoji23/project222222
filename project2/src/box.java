@@ -19,10 +19,9 @@ class box3 {
 		
 		return new box3(l);
 	}
-	////
-	//
-	//
-	//
-	///////
+	
+	public static void main(String[] args) {
+		System.out.println("Hello");
+	}
 	
 }
