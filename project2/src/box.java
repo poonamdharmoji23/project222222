@@ -7,9 +7,9 @@ class box3 {
 	box3(double length){
 		this.length=length;
 	}
-	
+	//
 	//design a factoryMethod, to create an instance of box and return its reference//
-	
+	//ddhha
 	public static box3 createbox() {
 		
 		return new box3();
