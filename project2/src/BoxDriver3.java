@@ -7,5 +7,8 @@ class BoxDriver3 {
 			
 			System.out.println(box3.createbox(10).length);
 		}
+	public void demo(){
+		System.out.println("Hello");
+	}
 }
 
